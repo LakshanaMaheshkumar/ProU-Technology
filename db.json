@@ -1,0 +1,56 @@
+{
+  "brands": [
+    {
+      "id": "1761318033134",
+      "name": "Prada",
+      "category": "Shoes",
+      "country": "Italy",
+      "price_range": "$$$$",
+      "sustainability_score": 60,
+      "material": "Leather",
+      "ethical_practices": "Ethically Sourced",
+      "rating": 4,
+      "description": "",
+      "user_id": "1761316877571"
+    },
+    {
+      "id": "1761318033135",
+      "name": "Zara",
+      "category": "Clothing",
+      "country": "Spain",
+      "price_range": "$$",
+      "sustainability_score": 70,
+      "material": "Cotton",
+      "ethical_practices": "Eco-friendly Fabrics",
+      "rating": 4,
+      "description": "",
+      "user_id": "1761316877572"
+    },
+    {
+      "id": "1761318033136",
+      "name": "H&M",
+      "category": "Clothing",
+      "country": "Sweden",
+      "price_range": "$",
+      "sustainability_score": 65,
+      "material": "Recycled Polyester",
+      "ethical_practices": "Fair Labor",
+      "rating": 3,
+      "description": "",
+      "user_id": "1761316877573"
+    },
+    {
+      "id": "1761318557000",
+      "name": "Samsung",
+      "category": "Accessories",
+      "country": "China",
+      "price_range": "$$",
+      "sustainability_score": 62,
+      "material": "Metal Body",
+      "ethical_practices": "Carbon emission control",
+      "rating": 3,
+      "description": "",
+      "user_id": "1761316877570"
+    }
+  ]
+}
