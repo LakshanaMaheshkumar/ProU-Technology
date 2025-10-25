@@ -9,16 +9,16 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.app.json",
-    "json-server": "json-server --watch db.json --port $PORT"
+    "json-server": "json-server --watch db.json --port 10000"
   },
   "dependencies": {
     "framer-motion": "^12.23.24",
+    "json-server": "^0.17.4",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-is": "^19.2.0",
-    "recharts": "^3.3.0",
-    "json-server": "^0.17.3"
+    "recharts": "^3.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
